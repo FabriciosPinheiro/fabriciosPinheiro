@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <br>
 
 ### Social Links
-<a href="">
+<a href="https://www.linkedin.com/in/fabriciopinheiro-bab589221/">
 <img src="https://img.shields.io/badge/-fabriciospinheiro-05122A?style=flat&logo=linkedin">
 </a>
-<a href="https://www.linkedin.com/in/fabriciopinheiro-bab589221/">
+<a href="https://instagram.com/fabriciopinheirods.dev.me?igshid=ZDdkNTZiNTM=">
 <img src="https://img.shields.io/badge/-fabriciopinheirods.dev.me-05122A?style=flat&logo=instagram">
 </a><br><br>
 
