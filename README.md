@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 <br>
 
 ### Social Links
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagran.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://Linkedin.com)
+<a href="">
+<img src="https://img.shields.io/badge/-fabriciospinheiro-05122A?style=flat&logo=linkedin">
+</a>
+<a href="https://www.linkedin.com/in/fabriciopinheiro-bab589221/">
+<img src="https://img.shields.io/badge/-fabriciopinheirods.dev.me-05122A?style=flat&logo=instagram">
+</a><br><br>
 
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fabriciospinheiro&show_icons=true&theme=highcontrast">
-<img width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciospinheiro&layout=compact&theme=highcontrast">
-
+<img src="https://github-readme-stats.vercel.app/api?username=fabriciospinheiro&show_icons=true&theme=highcontrast">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciospinheiro&layout=compact&theme=highcontrast">
 <br>
 
 ### Tecnologias que eu uso no meu dia.
