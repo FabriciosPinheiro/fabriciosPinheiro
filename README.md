@@ -13,9 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/FabriciosPinheiro/1bb78f3aeb983941db6239e0872cdc4f/raw/9f8455e3984282a3f43e202a9c71465ee784403c/githubcard.svg">
 
-## Hi there 👋! I am Fabrício Pinheiro.
+<h1> Hi there 👋! I am Fabrício Pinheiro.</h1>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciospinheiro&color=yellow" alt="Profile views" /> </p>
+
+- 🔥 I'm a bachelor's student in information systems at the Federal University of Amazonas (UFAM) 
+- 🔭  I'm currentle working on Projeto SUPER (Project of Samsung for education and search)
+- 🌱 I'm looking for an opportunity for Dev Junior in Web or Mobile
+
 
 ### Social Links
 <a href="https://www.linkedin.com/in/fabriciopinheiro-bab589221/">
