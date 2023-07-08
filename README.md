@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/FabriciosPinheiro/1bb78f3aeb983941db6239e0872cdc4f/raw/9f8455e3984282a3f43e202a9c71465ee784403c/githubcard.svg">
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/FabriciosPinheiro/24231ee3e19ea253ac0d016e58575517/raw/23368d03bb7daa6af5b1ca823e676a3b0c545505/githubCard.svg">
 
 <h1> Hi there 👋! I am Fabrício Pinheiro.</h1>
 <br>
