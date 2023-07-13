@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 </a><br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=fabriciospinheiro&show_icons=true&theme=highcontrast">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciospinheiro&layout=compact&theme=highcontrast">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabriciospinheiro&show_icons=true&theme=highcontrast">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabriciospinheiro&layout=compact&theme=highcontrast">
 <br>
 
 ### Tecnologias que eu uso no meu dia.
