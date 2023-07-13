@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciospinheiro&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm a bachelor's student in information systems at the Federal University of Amazonas (UFAM) 
-- 🔭  I'm currentle working on Projeto SUPER (Project of Samsung for education and search)
+- :mortar_board: I'm a bachelor's information systems at the Federal University of Amazonas (UFAM) 
+- :mag: Worked on Project SUPER (Samsung Project for Education and Research)
 - 🌱 I'm looking for an opportunity for Dev Junior in Web or Mobile
+- :chart_with_upwards_trend: Currently studying data analysis for Financial Market (Quantitative Trading)
 
 
 ### Social Links
@@ -40,10 +41,19 @@ Here are some ideas to get you started:
 ### Tecnologias que eu uso no meu dia.
 
 <div style="display: inline_block">
+   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img aling="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img aling="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img aling="center" alt="Git" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img aling="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <!--img aling="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"-->
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
