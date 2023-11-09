@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - :mortar_board: I'm a bachelor's information systems at the Federal University of Amazonas (UFAM) 
 - :mag: Worked on Project SUPER (Samsung Project for Education and Research)
-- 🌱 I'm looking for an opportunity for Dev Junior in Web or Mobile
+- 🌱 I'm looking for an opportunity in junior data analysis. Experiments in Python and Pandas
 - :chart_with_upwards_trend: Currently studying data analysis for Financial Market (Quantitative Trading)
 
 
