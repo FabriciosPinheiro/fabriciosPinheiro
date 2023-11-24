@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabriciospinheiro&layout=compact&theme=highcontrast">
 <br>
 
-### Stack:
+### My Skills
 
 <div style="display: inline_block">
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
