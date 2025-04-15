@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/FabriciosPinheiro/24231ee3e19ea253ac0d016e58575517/raw/23368d03bb7daa6af5b1ca823e676a3b0c545505/githubCard.svg">
 
 <h1> Hi there 👋! I am Fabrício Pinheiro.</h1>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciospinheiro&color=yellow" alt="Profile views" /> </p>
+
+<!-- img align="right" height="500em" src="https://raw.githubusercontent.com/gist/FabriciosPinheiro/24231ee3e19ea253ac0d016e58575517/raw/23368d03bb7daa6af5b1ca823e676a3b0c545505/githubCard.svg"-->
 
 - :mortar_board: I'm a bachelor's information systems at the Federal University of Amazonas (UFAM) 
 - :mag: Worked on Project SUPER (Samsung Project for Education and Research)
@@ -55,6 +56,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white">
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -83,6 +86,9 @@ Here are some ideas to get you started:
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+
 
 &nbsp;
 &nbsp;
